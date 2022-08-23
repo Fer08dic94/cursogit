@@ -8,7 +8,7 @@
     <link href="css/estilos.css" rel="stylesheet"  type="text/css">
 </head>
 <body>
-    <h1>Proyecto empresarial</h1>
+    <h1>Proyecto escolar</h1>
   
 </body>
 </html>
