@@ -9,7 +9,6 @@
 <body>
     <h1>Hola mundo</h1>
 
-    <p>Esto es un parrafo</p>
     
 </body>
 </html>
