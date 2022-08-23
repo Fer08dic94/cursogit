@@ -10,7 +10,5 @@
 <body>
     <h1>Proyecto empresarial</h1>
   
-
-    
 </body>
 </html>
